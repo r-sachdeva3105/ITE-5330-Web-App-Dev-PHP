@@ -37,5 +37,18 @@
         "company_name": "coforge",
         "experience_years": "2",
         "responsibilities": "frontend"
+    },
+    {
+        "full_name": "Rajat Sachdeva",
+        "email": "r.sachdeva3105@gmail.com",
+        "phone": "4376607347",
+        "degree": "pgd",
+        "field_of_study": "it",
+        "institution": "humber",
+        "graduation_year": "2025",
+        "job_title": "software engineer",
+        "company_name": "coforge",
+        "experience_years": "2",
+        "responsibilities": "frontend development"
     }
 ]
