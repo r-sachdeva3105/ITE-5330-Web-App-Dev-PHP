@@ -11,3 +11,7 @@
 - User Authentication and Session Management using PHP
 - Cookies to remember login information
 - Save and Retrieve Data using PHP Sessions
+
+## 🔗 [Week 4](https://github.com/r-sachdeva3105/ITE-5330-Web-App-Dev-PHP/tree/main/my_laravel_app-1)
+- Composer Installation
+- Laravel Setup
