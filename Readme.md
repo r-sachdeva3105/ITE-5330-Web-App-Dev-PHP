@@ -19,3 +19,11 @@
 ## 🔗 [Week 7](https://github.com/r-sachdeva3105/ITE-5330-Web-App-Dev-PHP/tree/main/lab7)
 - Using Composer to Manage Dependencies
 - Creating and Testing Log Entries
+
+## 🔗 [Week 8](https://github.com/r-sachdeva3105/ITE-5330-Web-App-Dev-PHP/tree/main/inventory-app)
+- Creating Inventory Laravel Application
+- Running and understanding application flow
+
+## 🔗 [Week 9](https://github.com/r-sachdeva3105/ITE-5330-Web-App-Dev-PHP/tree/main/lab9)
+- Integrating database using ORM
+- Using blade templates for UI
