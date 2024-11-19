@@ -27,3 +27,7 @@
 ## 🔗 [Week 9](https://github.com/r-sachdeva3105/ITE-5330-Web-App-Dev-PHP/tree/main/lab9)
 - Integrating database using ORM
 - Using blade templates for UI
+
+## 🔗 [Week 10](https://github.com/r-sachdeva3105/ITE-5330-Web-App-Dev-PHP/tree/main/lab10)
+- Frontend and Backend Integration
+- Query Optimization using Eloquent ORMs
